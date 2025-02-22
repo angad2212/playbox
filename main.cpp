@@ -1,3 +1,5 @@
+// Entry point for running your test cases and testing the cache.
+
 #include <iostream>
 #include <unordered_map>
 
