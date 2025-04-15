@@ -11,8 +11,8 @@ int main() {
     cache["user_2"] = "Bobby";
 
     // Retrieve data from cache
-    std::cout << "user_1: " << cache["user_1"] << std::endl;
-    std::cout << "user_2: " << cache["user_2"] << std::endl;
+    std::cout << "user_1 is: " << cache["user_1"] << std::endl;
+    std::cout << "user_2 is: " << cache["user_2"] << std::endl;
 
     return 0;
 }
